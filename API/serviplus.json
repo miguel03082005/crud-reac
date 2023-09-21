@@ -1,0 +1,23 @@
+{
+  "usuarios": [
+    {
+      "user": "andres",
+      "email": "andres@gmail.com",
+      "password": "andres123",
+      "id": 1
+    },
+    {
+      "user": "daniel",
+      "email": "daniel@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "user": "holo",
+      "email": "hola@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "turnos": []
+}
